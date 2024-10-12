@@ -5,7 +5,7 @@
 The Job Listing App is a mobile application built using Jetpack Compose and Supabase. It allows users to browse job listings, post new jobs, and manage their job applications. The app supports two user roles: **Recruiter** and **Non-Recruiter**. Each role has different functionalities and views.
 
 ## Demo
-![Job Listing Demo](demo/listjob_demo.gif)
+![Job Listing Demo](demo/demo.gif)
 
 ## Features
 
